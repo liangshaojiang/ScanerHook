@@ -1,0 +1,15 @@
+F:\AspNet\SMQDemo\SMQDemo\bin\Debug\SMQDemo.exe.config
+F:\AspNet\SMQDemo\SMQDemo\bin\Debug\SMQDemo.exe
+F:\AspNet\SMQDemo\SMQDemo\bin\Debug\SMQDemo.pdb
+F:\AspNet\SMQDemo\SMQDemo\obj\Debug\SMQDemo.csprojAssemblyReference.cache
+F:\AspNet\SMQDemo\SMQDemo\obj\Debug\MainWindow.g.cs
+F:\AspNet\SMQDemo\SMQDemo\obj\Debug\App.g.cs
+F:\AspNet\SMQDemo\SMQDemo\obj\Debug\SMQDemo_MarkupCompile.cache
+F:\AspNet\SMQDemo\SMQDemo\obj\Debug\SMQDemo_MarkupCompile.lref
+F:\AspNet\SMQDemo\SMQDemo\obj\Debug\MainWindow.baml
+F:\AspNet\SMQDemo\SMQDemo\obj\Debug\SMQDemo.g.resources
+F:\AspNet\SMQDemo\SMQDemo\obj\Debug\SMQDemo.Properties.Resources.resources
+F:\AspNet\SMQDemo\SMQDemo\obj\Debug\SMQDemo.csproj.GenerateResource.cache
+F:\AspNet\SMQDemo\SMQDemo\obj\Debug\SMQDemo.csproj.CoreCompileInputs.cache
+F:\AspNet\SMQDemo\SMQDemo\obj\Debug\SMQDemo.exe
+F:\AspNet\SMQDemo\SMQDemo\obj\Debug\SMQDemo.pdb
